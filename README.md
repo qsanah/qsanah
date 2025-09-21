@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋, I'm Sanah Quazi  
 
+💻 **Junior Data Scientist | AI Engineer | Python Developer**   
+⚡ Passionate about solving real-world problems with AI, ML and automation  
+
+---
+
+## 🚀 About Me
+- 🎓 Master's in **Applied Artificial Intelligence** (Deakin University)  
+- 📊 Background in **Physics + Data Science**  
+- ☁️ Skilled in **Microsoft Azure AI, Python, ML, NLP, and Automation**   
+- 🎯 Interested in **AI engineering, data-driven applications, and end-to-end ML pipelines**  
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** Python, SQL, C#, HTML, CSS  
+**Data Science & ML:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, NLP, Deep Learning, Computer Vision  
+**Visualization:** Matplotlib, Seaborn  
+**Tools & Platforms:** Git, GitHub, Jupyter, VS Code 
+<!--**Cloud & Deployment:** Microsoft Azure AI Services, MLOps-->
+
+---
 <!--
-**qsanah/qsanah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Featured Projects
+🌟 [**Smart Task Automation Tool**](https://github.com/<your-username>/smart-task-automation)  
+🗂️ Python tool for automating file organization and report generation.  
 
-Here are some ideas to get you started:
+🌟 [**Sentiment Analysis (NLP)**](https://github.com/<your-username>/sentiment-analysis-nlp)  
+📝 ML model for classifying customer reviews with a Streamlit demo.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌟 [**Sports Stats Dashboard**](https://github.com/<your-username>/sports-stats-dashboard)  
+⚽ Data pipeline + dashboard for visualizing live sports statistics. 
 -->
+---
+
+## 📫 How to Reach Me
+- 💼 [LinkedIn](linkedin.com/in/sanah-quazi)  
+- 📧 Email: qsanah16@gmail.com  
