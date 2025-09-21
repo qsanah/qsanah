@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sanah Quazi  
+# Sanah Quazi  
 
 💻 **Junior Data Scientist | AI Engineer | Python Developer**   
 ⚡ Passionate about solving real-world problems with AI, ML and automation  
