@@ -35,5 +35,6 @@
 ---
 
 ## 📫 How to Reach Me
-- 💼 [LinkedIn](linkedin.com/in/sanah-quazi)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sanah-quazi)
+ 
 <!--- 📧 Email: qsanah16@gmail.com  -->
